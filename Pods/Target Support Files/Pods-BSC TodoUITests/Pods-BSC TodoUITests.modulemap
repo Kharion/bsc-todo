@@ -1,0 +1,6 @@
+framework module Pods_BSC_TodoUITests {
+  umbrella header "Pods-BSC TodoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
